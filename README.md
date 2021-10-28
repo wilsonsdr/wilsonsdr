@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
 - 📖 I'm currently learning front-end
-- 📧 How to reach [LinkedIn](https://linkedin.com/in/wilsonsdr/)
+- 📧 How to reach me [LinkedIn](https://linkedin.com/in/wilsonsdr/)
 
 <br>
 
