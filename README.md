@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
 - 📖 I'm currently learning front-end
 - 📧 How to reach me wilsonsdr@gmail.com
-<br><br>
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -19,7 +20,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wilsonsdr&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsdr&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wilsonsdr&show_icons=true&theme=chartreuse-dark" alt="wilsonsdr's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsdr&layout=compact&theme=chartreuse-dark" alt="wilsonsdr's most languages"/>
 </p>
 
