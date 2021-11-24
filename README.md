@@ -1,4 +1,6 @@
-<h1 align="left">Hello there <img src=https://user-images.githubusercontent.com/81364355/143261191-85efe74e-906a-4337-8e24-bf4468b558a6.gif width="40px">, I'm Wilson Reis</h1>
+![picasion com_0316639a5d1a1a6daf68cd48239dd796](https://user-images.githubusercontent.com/81364355/143269720-debd87bf-f63b-43d5-b7e1-0e0f9655d1b8.gif)
+<br>
+<h1 align="left">Hello there, I'm Wilson Reis</h1>
 
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
 - 🌱 I’m currently learning front-end
@@ -23,3 +25,5 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=wilsonsdr&show_icons=true&theme=chartreuse-dark" alt="wilsonsdr's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsdr&layout=compact&theme=chartreuse-dark" alt="wilsonsdr's most languages"/>
 </p>
+
+
