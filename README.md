@@ -1,5 +1,5 @@
 ![picasion com_0316639a5d1a1a6daf68cd48239dd796](https://user-images.githubusercontent.com/81364355/143269720-debd87bf-f63b-43d5-b7e1-0e0f9655d1b8.gif)
-<br>
+
 <h1 align="left">Hello there, I'm Wilson Reis</h1>
 
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
