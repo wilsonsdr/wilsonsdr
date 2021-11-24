@@ -1,4 +1,4 @@
-<h1 align="left">Hello there <img src=https://user-images.githubusercontent.com/81364355/143261191-85efe74e-906a-4337-8e24-bf4468b558a6.gif width="30px">, I'm Wilson Reis</h1>
+<h1 align="left">Hello there <img src=https://user-images.githubusercontent.com/81364355/143261191-85efe74e-906a-4337-8e24-bf4468b558a6.gif width="40px">, I'm Wilson Reis</h1>
 
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
 - 🌱 I’m currently learning front-end
