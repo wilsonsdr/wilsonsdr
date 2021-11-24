@@ -1,11 +1,12 @@
-<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wilson Reis</h1>
+<h1 align="left">Hello there <img src=https://user-images.githubusercontent.com/81364355/143261191-85efe74e-906a-4337-8e24-bf4468b558a6.gif width="30px">, I'm Wilson Reis</h1>
 
 - 🔭 I’m currently working on [IBM](https://github.com/ibm)
 - 🌱 I’m currently learning front-end
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/wilsonsdr/)
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack!
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
