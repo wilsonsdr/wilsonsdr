@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on **IBM**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **front end**
 
 - 📫 How to reach me <a href="https://linkedin.com/in/wilsonsdr">**LinkedIn**</a>
 
