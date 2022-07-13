@@ -1,7 +1,10 @@
 <h1 align="center">Hello there 👋, I'm Wilson</h1>
-<h3 align="center">A passionate and apprentice web developer from Brazil </h3>
+
+<h3 align="center">A passionate and apprentice web developer from Brazil </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonsdr&label=Profile%20views&color=0e75b6&style=flat" alt="wilsonsdr" /> </p>
+ 
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3a92320633d7135cf71e3ae53bd981db.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
 
 - 👨‍💻 I’m currently working on **IBM**
 
