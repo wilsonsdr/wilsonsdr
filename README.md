@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 #### 👩‍💻 About me
 
 - 😄 Pronouns: He/His 
