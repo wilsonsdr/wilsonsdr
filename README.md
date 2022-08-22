@@ -1,5 +1,10 @@
-<h4 align="center">Hello, geeks! 👋</h4>
-<p align="center">A passionate web developer from Brazil</p>
+<div align="center">
+<h4>Hello, geeks! 👋</h4>
+<p>A passionate web developer from Brazil</p>
+
+>*“Respice post te. Hominem te esse memento. Memento mori!”*
+
+</div>
 
 ---
 
