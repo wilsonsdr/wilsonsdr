@@ -2,7 +2,7 @@
 <h4>Hello, geeks! 👋</h4>
 <p>A passionate web developer from Brazil</p>
 
->*“Respice post te. Hominem te esse memento. Memento mori!”*
+>*“Respice post te. Hominem te esse memento. Memento mori.”*
 
 ![Group 1](https://user-images.githubusercontent.com/81364355/185987316-4fcb8951-cf82-461c-9828-b42c018dbf1c.png)
 
