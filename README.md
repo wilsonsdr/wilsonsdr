@@ -1,6 +1,6 @@
 <div align="center">
 <h4>Hello, geeks! 
-<img src="https://user-images.githubusercontent.com/81364355/192405378-e411e9aa-976b-43c6-bce3-bce789d096f1.gif" width="20" alt=""></h4>
+<img src="https://user-images.githubusercontent.com/81364355/192405378-e411e9aa-976b-43c6-bce3-bce789d096f1.gif" width="16" height="16" alt=""></h4>
 
 <p>A passionate web developer from Brazil</p>
 
