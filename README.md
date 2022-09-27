@@ -1,6 +1,6 @@
 <div align="center">
-<h4>Hello, geeks! 
-<img src="https://user-images.githubusercontent.com/81364355/192405378-e411e9aa-976b-43c6-bce3-bce789d096f1.gif" width="16" height="16" alt=""></h4>
+
+<h4>Hello, geeks! 👋</h4>
 
 <p>A passionate web developer from Brazil</p>
 
@@ -14,8 +14,9 @@
 - 😄 Pronouns: He/His 
 - 🔭 I’m currently working at [IBM](http://www.ibm.com/)
 - 🌱 I'm currently learning about front-end technologies and design
-- 🕐 In my free time, I also like to read philosophy books, play the guitar and play some games
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
+- 🕐 In my free time, I also like to read philosophy books and play the guitar
+- 📫 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
+
 
 #### 🎯 Goals 
 
