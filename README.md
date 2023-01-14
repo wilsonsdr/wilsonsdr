@@ -12,7 +12,6 @@
 #### 👨‍💻 About me
 
 - 😄 Pronouns: He/His 
-- 🔭 I’m currently working at [IBM](http://www.ibm.com/)
 - 🌱 I'm currently learning about front-end technologies and design
 - 🕐 In my free time, I also like to read philosophy books and play the guitar
 - 📫 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
