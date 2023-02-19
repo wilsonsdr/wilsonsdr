@@ -21,7 +21,7 @@
 
 - 📂 Expand my repository
 - 🤝 Can help and contribute to others projects
-- 📈 Get an opportunity as Back-end developer
+- 📈 Get an opportunity as back-end developer
 
 #### ⚡ Technologies
 
