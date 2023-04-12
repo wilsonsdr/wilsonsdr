@@ -2,7 +2,7 @@
 
 <h4>Hello, geeks! 👋</h4>
 
-<p>A passionate web developer from Brazil</p>
+<p>A passionate back-end developer from Brazil</p>
 
 >*“Respice post te. Hominem te esse memento. Memento mori.”*
 
