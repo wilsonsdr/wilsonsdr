@@ -12,7 +12,7 @@
 #### 👨‍💻 About me
 
 - 😄 Pronouns: He/His 
-- 🌱 I'm currently learning about C# 
+- 🌱 I'm currently learning about .NET and Typescript
 - 🕐 In my free time, I also like to read philosophy books and play the guitar
 - 📫 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
 
