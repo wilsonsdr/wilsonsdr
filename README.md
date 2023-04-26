@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: He/His 
 - 🌱 I'm currently learning about .NET and Typescript
-- 🕐 In my free time, I also like to read philosophy books and play the guitar
+- 🕐 In my free time, I also like to read philosophy books, play the guitar and chess
 - 📫 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
 
 
