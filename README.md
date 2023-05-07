@@ -14,7 +14,7 @@
 - 😄 Pronome: Ele/Dele 
 - 🌱 Atualmente estou aprendendo: .NET and Typescript
 - 🕐 No meu tempo livre: gosto de ler livros de filosofia, jogar xadrez e tocar violão
-- 📫 Entre em contato comigo: [linkedin](https://www.linkedin.com/in/wilsonsdr/)
+- 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
 
 
 #### 🎯 Objetivos 
