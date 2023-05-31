@@ -1,6 +1,6 @@
 <div align="center">
 
-<h4>Olá, seja bem-vindo! 👋</h4>
+<h4>Seja bem-vindo! 👋</h4>
 
  <p>Sou um desenvolvedor apaixonado por tecnologia</p>
 
