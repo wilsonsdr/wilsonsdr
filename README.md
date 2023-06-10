@@ -26,6 +26,6 @@
 #### 🛠️ Habilidades e Ferramentas
 
 - 💻 Linguagens de Programação: C#, JavaScript
-- 🧰 Frameworks: .NET, .NET Core, React, Typescript, NextJS
+- 🧰 Frameworks: .NET, React, Typescript, NextJS
 - 🗃️ Banco de Dados: MySQL, MongoDB
 - 🛡️ Outras Ferramentas: Git, Jira, Servidores Linux
