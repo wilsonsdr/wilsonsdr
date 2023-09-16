@@ -13,7 +13,8 @@
 
 #### 🛠️ Habilidades e Ferramentas
 
-- 💻 Linguagens de Programação: JavaScript e C#
-- 🧰 Frameworks: React, Typescript, NextJS e .NET
-- 🗃️ Banco de Dados: MySQL e MongoDB
-- 🛡️ Outras Ferramentas: Git, Jira e Servidores Linux
+- Linguagens de Programação: JavaScript, TypeScript e C#
+- Tecnologias para Desenvolvimento: React, NextJS e NodeJS
+- Ferramentas de Desenvolvimento: Git, Grafana, Jaeger, Jenkins, Jira, Kibana e MinIo
+- Banco de Dados: MySQL, MongoDB
+
