@@ -13,8 +13,8 @@
 
 #### 🛠️ Habilidades e Ferramentas
 
-- Linguagens de Programação: JavaScript, TypeScript e C#
-- Tecnologias para Desenvolvimento: React, NextJS e NodeJS
-- Ferramentas de Desenvolvimento: Git, Grafana, Jaeger, Jenkins, Jira, Kibana e MinIo
+- Desenvolvimento front-end: HTML, CSS, SASS, Bootstrap, JavaScript, React, TypeScript
+- Desenvolvimento back-end: Next.js, Node.js, C#
+- Ferramentas de Desenvolvimento: Git, Grafana, Jaeger, Jenkins, Jira, Kibana, MinIo, Postman
 - Banco de Dados: MySQL, MongoDB
 
