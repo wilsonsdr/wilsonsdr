@@ -13,4 +13,4 @@
 
 #### 🛠️ Habilidades e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,javascript,react,typescript,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
