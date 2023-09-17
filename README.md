@@ -13,8 +13,4 @@
 
 #### 🛠️ Habilidades e Ferramentas
 
-- Desenvolvimento front-end: HTML, CSS, SASS, Bootstrap, JavaScript, React, TypeScript
-- Desenvolvimento back-end: Next.js, Node.js, C#
-- Ferramentas de Desenvolvimento: Git, Grafana, Jaeger, Jenkins, Jira, Kibana, MinIo, Postman
-- Banco de Dados: MySQL, MongoDB
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,javascript,react,typescript,nextjs,nodejs,cs,git,postman)](https://skillicons.dev)
