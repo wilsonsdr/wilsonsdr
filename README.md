@@ -9,7 +9,7 @@
 
 - 📂 Ampliar meu repositório de projetos
 - 🤝 Ajudar e contribuir com outros projetos
-- 📈 Conseguir uma oportunidade como desenvolvedor de software
+- 📈 ~~Conseguir uma oportunidade na área de desenvolvimento~~
 
 #### 🛠️ Habilidades e Ferramentas
 
