@@ -1,7 +1,7 @@
 #### 👨‍💻 Sobre mim
 
 - 😄 Pronomes: Ele/Dele 
-- 🌱 Atualmente estou aprendendo: Node
+- 🌱 Atualmente estou aprendendo: Node.js
 - 🕐 No meu tempo livre: Leitura, xadrez e violão
 - 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/wilsonsdr/)
 
