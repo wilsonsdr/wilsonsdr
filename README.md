@@ -11,6 +11,6 @@
 
 #### 🎯 Objetivos 
 
-- Ampliar meu repositório de projetos
-- Ajudar e contribuir com outros projetos
-- ~~Conseguir uma oportunidade na área de desenvolvimento de software~~
+- 📂 Ampliar meu repositório de projetos
+- 🤝 Ajudar e contribuir com outros projetos
+- 📈 ~~Conseguir uma oportunidade na área de desenvolvimento de software~~
