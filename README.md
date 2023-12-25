@@ -4,13 +4,13 @@
 
 💻 Experiência versátil em front-end e back-end, permitindo-me atuar em diversas frentes. Minhas habilidades incluem:
 
-- 📌 Desenvolvimento Front-end: HTML, CSS, SASS, Bootstrap, JavaScript, TypeScript, TailwindCSS, React.js, Next.js
-- 📌 Desenvolvimento Back-end: Node.js, C#
-- 📌 Banco de Dados: MySQL, MongoDB
-- 📌 Ferramentas de Desenvolvimento: Git, Jira, Postman
+- Desenvolvimento Front-end: HTML, CSS, SASS, Bootstrap, JavaScript, TypeScript, TailwindCSS, React.js, Next.js
+- Desenvolvimento Back-end: Node.js, C#
+- Banco de Dados: MySQL, MongoDB
+- Ferramentas de Desenvolvimento: Git, Jira, Postman
 
 #### 🎯 Objetivos 
 
-- 📂 Ampliar meu repositório de projetos
-- 🤝 Ajudar e contribuir com outros projetos
-- 📈 ~~Conseguir uma oportunidade na área de desenvolvimento~~
+- Ampliar meu repositório de projetos
+- Ajudar e contribuir com outros projetos
+- ~~Conseguir uma oportunidade na área de desenvolvimento de software~~
