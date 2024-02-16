@@ -1,6 +1,6 @@
-#### 👨‍💻 About me
+#### 👨‍💻 About
 
-Passionate about Software Development field, I seek to learn and improve myself daily, believing that constant learning is the key to becoming an exceptional professional. I am convinced that technology plays a crucial role in solving problems and improving people's quality of life.
+Passionate about Software Development field, He seeks to learn and improve himself daily, believing that constant learning is the key to becoming an exceptional professional. He is convinced that technology plays a crucial role in solving problems and improving people's quality of life.
 
 #### 🎯 Goals
 
