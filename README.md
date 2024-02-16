@@ -4,7 +4,7 @@ Passionate about Software Development field, He seeks to learn and improve himse
 
 #### 🎯 Goals
 
-  - 📂 Expand my project repository
+  - 📂 Expand his project repository
   - 🤝 Help and contribute to other projects
   - 📈 ~~Get an opportunity in the development area~~
 
