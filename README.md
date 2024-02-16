@@ -1,13 +1,13 @@
-#### 👨‍💻 Sobre mim
+#### 👨‍💻 About me
 
-Apaixonado pela área de Desenvolvimento de Software, busco aprender e me aperfeiçoar diariamente, acreditando que a constante evolução é a chave para se tornar um profissional excepcional. Tenho a convicção de que a tecnologia desempenha um papel crucial na resolução de problemas e na melhoria da qualidade de vida das pessoas.
+Passionate about Software Development, I seek to learn and improve myself daily, believing that constant learning is the key to becoming an exceptional professional. I am convinced that technology plays a crucial role in solving problems and improving people's quality of life.
 
-#### 🎯 Objetivos 
+#### 🎯 Goals
 
-- 📂 Ampliar meu repositório de projetos
-- 🤝 Ajudar e contribuir com outros projetos
-- 📈 ~~Conseguir uma oportunidade na área de desenvolvimento~~
+  - 📂 Expand my project repository
+  - 🤝 Help and contribute to other projects
+  - 📈 ~~Get an opportunity in the development area~~
 
-#### 🛠️ Habilidades e Ferramentas
+#### 🛠️ Stacks 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,tailwind,nextjs,nodejs,cs,git,postman,mysql,mongodb)](https://skillicons.dev)
